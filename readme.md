@@ -1,0 +1,2 @@
+# Test
+El proposito de este proyecto es poder crear un portafolio con todos los conocimientos que hemos adquerido en el curso, otro proposito es desarrollar nuestra creatividad,  y este portafolio es el resultado.
